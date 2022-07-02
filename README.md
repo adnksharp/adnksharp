@@ -2,7 +2,7 @@
 
 ![aKtrophy](https://github-profile-trophy.vercel.app/?username=adnksharp&theme=onestar&no-frame=true)
 
-**Entusiasta por la electrónica, la programación orientada a microcontroladores, el sistema operativo Linux y el desarrollo de aplicaciones CLI.**
+**Entusiasta por la electrónica, la programación de microcontroladores, el sistema operativo Linux y el desarrollo de aplicaciones CLI.**
 
 Conocedor de lenguajes de programación como C, CSS, Python, Shell, Scilab, entre otros.
 
