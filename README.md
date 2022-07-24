@@ -7,7 +7,7 @@
 
 ## Estadísticas:
 
-| ![aKStats](https://github-readme-stats.vercel.app/api?username=adnksharp&show_icons=true&theme=blueberry&locale=es&bg_color=00000000&hide_border=true) | ![aKLang](https://github-readme-stats.vercel.app/api/top-langs/?username=adnksharp&theme=blueberry&locale=es&layout=compact&bg_color=00000000&hide_border=true) |
+| ![aKStats](https://github-readme-stats.vercel.app/api?username=adnksharp&show_icons=true&theme=blueberry&locale=es&bg_color=00000000&hide_border=true) | ![aKLang](https://github-readme-stats.vercel.app/api/top-langs/?username=adnksharp&theme=blueberry&locale=es&layout=compact&bg_color=00000000&hide_border=true&langs_count=10) |
 | ------------------------------------------------------------ | ------------------------------------------------------------ 
 | ![aKStreak](https://github-readme-streak-stats.herokuapp.com?user=adnksharp&theme=tokyonight&date_format=j%2Fn%5B%2FY%5D&locale=es&background=00000000&hide_border=true) | <img src="https://activity-graph.herokuapp.com/graph?username=adnksharp&bg_color=00000000&theme=react-dark&hide_border=true&hide_title=true&point=bf91f3" width="500" /> |
 
