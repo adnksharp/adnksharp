@@ -13,6 +13,6 @@
 
 ## Herramientas favoritas:
 
-![aKSkills](https://skillicons.dev/icons?i=azure,py,git,arduino,cpp,bash,c,vscode,cs,css,js,linux)
+![aKSkills](https://skillicons.dev/icons?i=azure,linux,vscode,py,bash,arduino,css,dotnet,git)
 
 ##### Un dato interesante sobre mí: Me gusta el chocoflan.
