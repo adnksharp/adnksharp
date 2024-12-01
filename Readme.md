@@ -8,7 +8,7 @@ Desarrollador en constante aprendizaje con interés en la intersección entre la
   <a href="mailto:aks-ds23ja@proton.me" alt="Correo">
     <img src="https://img.shields.io/badge/CORREO-f75d54?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/ad%C3%A1n-ksharp-a92a4b2a7/">
+  <a href="https://mx.linkedin.com/in/ad%C3%A1n-ksharp-a92a4b2a7">
     <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://www.facebook.com/adnksharp/">
@@ -23,7 +23,7 @@ Desarrollador en constante aprendizaje con interés en la intersección entre la
   <a href="https://t.me/adnksharp">
     <img src="https://img.shields.io/badge/TELEGRAM-1d98dc?style=for-the-badge&logo=telegram&logoColor=white" alt="Youtube Badge"/>
   </a>
-  <a href="https://www.hackerrank.com/profile/aks_ds23ja">
+  <a href="https://www.hackerrank.com/profile/adnksharp">
     <img src="https://img.shields.io/badge/HACKERRANK-0eb249?style=for-the-badge&logo=HackerRank&logoColor=white" alt="Youtube Badge"/>
   </a>
   <!--
