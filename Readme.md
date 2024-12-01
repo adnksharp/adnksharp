@@ -1,4 +1,4 @@
-# Sharp | Estudiante de mecatronica 🧑‍💻🤖
+# Sharp | Estudiante de mecatrónica 🧑‍💻🤖
 
 Desarrollador en constante aprendizaje con interés en la intersección entre la electrónica y la programación. Me gusta explorar proyectos que involucran microcontroladores (Arduino, MicroLogix, ESP32), sistemas de control, análisis estructural (ANSYS APDL) y desarrollo web.  Mi toolkit incluye lenguajes como C++, MATLAB, Python, JS, Bash y frameworks como Electron, React Native, Express y Mongosh.
 
