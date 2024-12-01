@@ -33,14 +33,6 @@ Desarrollador en constante aprendizaje con interés en la intersección entre la
   -->
 </div>
 
-## :chart_with_upwards_trend: Estadísticas
-
-![aKtrophy](https://github-profile-trophy.vercel.app/?username=adnksharp&theme=algolia&no-frame=true&no-bg=true&rank=SSS,SS,S,AAA,AA,A,B,C,SECRET)
-
-| ![aKLang](https://github-readme-stats.vercel.app/api/top-langs/?username=adnksharp&theme=tokyonight&locale=es&layout=compact&bg_color=00000000&hide_border=true&langs_count=10) | ![aKStreak](https://github-readme-streak-stats.herokuapp.com?user=adnksharp&theme=windows-dark&date_format=j%2Fn%5B%2FY%5D&locale=es&background=00000000&hide_border=true) | 
-| ------------------------------------------------------------ | ------------------------------------------------------------ 
-<!--| ![aKStats](https://github-readme-stats.vercel.app/api?username=adnksharp&show_icons=true&locale=es&bg_color=00000000&hide_border=true&theme=tokyonight) | <img src="https://github-readme-activity-graph.vercel.app/graph?username=adnksharp&bg_color=00000000&theme=react-dark&hide_border=true&hide_title=true&point=bf91f3" width="500" /> |-->
-
 ### :mechanical_arm: Hard Skills
 
 <div style="background-color:powderblue;">
@@ -91,6 +83,14 @@ Desarrollador en constante aprendizaje con interés en la intersección entre la
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-original.svg" width="40" height="40"/>
   <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_light_yaml_icon_130421.png" width="40" height="40"/>   
 </div>
+
+## :chart_with_upwards_trend: Estadísticas
+
+![aKtrophy](https://github-profile-trophy.vercel.app/?username=adnksharp&theme=algolia&no-frame=true&no-bg=true&rank=SSS,SS,S,AAA,AA,A,B,C,SECRET)
+
+| ![aKLang](https://github-readme-stats.vercel.app/api/top-langs/?username=adnksharp&theme=tokyonight&locale=es&layout=compact&bg_color=00000000&hide_border=true&langs_count=10) | ![aKStreak](https://github-readme-streak-stats.herokuapp.com?user=adnksharp&theme=windows-dark&date_format=j%2Fn%5B%2FY%5D&locale=es&background=00000000&hide_border=true) | 
+| ------------------------------------------------------------ | ------------------------------------------------------------ 
+<!--| ![aKStats](https://github-readme-stats.vercel.app/api?username=adnksharp&show_icons=true&locale=es&bg_color=00000000&hide_border=true&theme=tokyonight) | <img src="https://github-readme-activity-graph.vercel.app/graph?username=adnksharp&bg_color=00000000&theme=react-dark&hide_border=true&hide_title=true&point=bf91f3" width="500" /> |-->
 
 > Reinventing the wheel
 
