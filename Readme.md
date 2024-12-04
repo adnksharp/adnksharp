@@ -94,4 +94,9 @@ Desarrollador en constante aprendizaje con interés en la intersección entre la
 
 > Reinventing the wheel
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=4dmc7adzfxoe4askhbja3ec2i&cover_image=true&theme=natemoo-re&show_offline=false&background_color=000000&interchange=false&bar_color=5bf2fa&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=4dmc7adzfxoe4askhbja3ec2i&redirect=true)
+## :headphones: :musical_keyboard: :video_game: Gustos
+
+| [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=4dmc7adzfxoe4askhbja3ec2i)](https://spotify-github-profile.kittinanx.com/api/view?uid=4dmc7adzfxoe4askhbja3ec2i&redirect=true) | <img src="https://i.postimg.cc/HnyqDWnN/d3e2e4bf-c.png" height="440"/> |  <img src="https://i.postimg.cc/sfGdZmmJ/d59a92b3-8.png" height="440"/> |
+|---|---|---|
+<!--| | | |-->
+
