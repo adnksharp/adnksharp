@@ -89,8 +89,14 @@ Desarrollador en constante aprendizaje con interés en la intersección entre la
 ![aKtrophy](https://github-profile-trophy.vercel.app/?username=adnksharp&theme=algolia&no-frame=true&no-bg=true&rank=SSS,SS,S,AAA,AA,A,B,C,SECRET)
 
 | ![aKLang](https://github-readme-stats.vercel.app/api/top-langs/?username=adnksharp&theme=tokyonight&locale=es&layout=compact&bg_color=00000000&hide_border=true&langs_count=10) | ![aKStreak](https://github-readme-streak-stats.herokuapp.com?user=adnksharp&theme=windows-dark&date_format=j%2Fn%5B%2FY%5D&locale=es&background=00000000&hide_border=true) | 
-| ------------------------------------------------------------ | ------------------------------------------------------------ 
-<!--| ![aKStats](https://github-readme-stats.vercel.app/api?username=adnksharp&show_icons=true&locale=es&bg_color=00000000&hide_border=true&theme=tokyonight) | <img src="https://github-readme-activity-graph.vercel.app/graph?username=adnksharp&bg_color=00000000&theme=react-dark&hide_border=true&hide_title=true&point=bf91f3" width="500" /> |-->
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+<details>
+  <summary>...</summary>
+  
+| ![aKStats](https://github-readme-stats.vercel.app/api?username=adnksharp&show_icons=true&locale=es&bg_color=00000000&hide_border=true&theme=tokyonight) | <img src="https://github-readme-activity-graph.vercel.app/graph?username=adnksharp&bg_color=00000000&theme=react-dark&hide_border=true&hide_title=true&point=bf91f3" width="500" /> |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+
+</details>
 
 > Reinventing the wheel
 
