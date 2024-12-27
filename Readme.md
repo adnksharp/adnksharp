@@ -23,10 +23,10 @@ Desarrollador en constante aprendizaje con interés en la intersección entre la
   <a href="https://t.me/adnksharp">
     <img src="https://img.shields.io/badge/TELEGRAM-1d98dc?style=for-the-badge&logo=telegram&logoColor=white" alt="Youtube Badge"/>
   </a>
+  <!--
   <a href="https://www.hackerrank.com/profile/adnksharp">
     <img src="https://img.shields.io/badge/HACKERRANK-0eb249?style=for-the-badge&logo=HackerRank&logoColor=white" alt="Youtube Badge"/>
   </a>
-  <!--
   <a href="">
     <img src="https://img.shields.io/badge/832177703943798785-5865f2?style=for-the-badge&logo=discord&logoColor=white" alt="Youtube Badge"/>
   </a>
