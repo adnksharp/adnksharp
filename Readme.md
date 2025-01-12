@@ -96,7 +96,6 @@ Desarrollador en constante aprendizaje con interés en la intersección entre la
 | ![aKStats](https://github-readme-stats.vercel.app/api?username=adnksharp&show_icons=true&locale=es&bg_color=00000000&hide_border=true&theme=tokyonight) | <img src="https://github-readme-activity-graph.vercel.app/graph?username=adnksharp&bg_color=00000000&theme=react-dark&hide_border=true&hide_title=true&point=bf91f3" width="500" /> |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 
-</details>
 
 > Reinventing the wheel
 
@@ -106,3 +105,4 @@ Desarrollador en constante aprendizaje con interés en la intersección entre la
 |---|---|---|
 <!--| | | |-->
 
+</details>
