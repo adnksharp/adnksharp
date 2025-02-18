@@ -33,7 +33,7 @@ Desarrollador en constante aprendizaje con interés en la intersección entre la
   -->
 </div>
 
-## :mechanical_arm: Hard Skills
+## :mechanical_arm: Expertice (Herramientas, Tecnologías, Lenguajes,...)
 
 <div style="background-color:powderblue;">
   <img src="https://www.svgrepo.com/show/452129/vs-code.svg" width="40" height="40"/>
