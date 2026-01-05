@@ -14,20 +14,20 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           filename: github-metrics.svg
-          token: ${{ secrets.AK_METRIC_T }}
+          token: ${{ secrets.METRICS_TOKEN }}
           base: header, activity, community
       - name: Half-year calendar
         uses: lowlighter/metrics@latest
         with:
           filename: calendar.svg
-          token: ${{ secrets.AK_METRIC_T }}
+          token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_isocalendar: yes
       - name: Compact display
         uses: lowlighter/metrics@latest
         with:
           filename: achievements.svg
-          token: ${{ secrets.AK_METRIC_T }}
+          token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_achievements: yes
           plugin_achievements_display: compact
@@ -36,7 +36,7 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
           filename: languages.svg
-          token: ${{ secrets.AK_METRIC_T }}
+          token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_languages: yes
           plugin_languages_indepth: yes
@@ -56,7 +56,7 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
           filename: habits.svg
-          token: ${{ secrets.AK_METRIC_T }}
+          token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_habits: yes
           plugin_habits_facts: no
