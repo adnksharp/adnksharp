@@ -30,7 +30,7 @@ jobs:
       - name: Compact display
         uses: lowlighter/metrics@latest
         with:
-          filename: metrics.plugin.achievements.compact.svg
+          filename: compact.svg
           token: ${{ secrets.METRICS }}
           base: ""
           plugin_achievements: yes
