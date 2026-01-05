@@ -30,12 +30,15 @@ jobs:
       - name: Compact display
         uses: lowlighter/metrics@latest
         with:
-          filename: achievements.svg
+          filename: metrics.plugin.achievements.compact.svg
           token: ${{ secrets.METRICS }}
           base: ""
           plugin_achievements: yes
+          plugin_achievements_only: polyglot, stargazer, sponsor, deployer, member, maintainer, developer, scripter, packager, explorer, infographile, manager
           plugin_achievements_display: compact
           plugin_achievements_threshold: X
+        test:
+          timeout: 1800000
       - name: Indepth analysis
         uses: lowlighter/metrics@latest
         with:
@@ -53,17 +56,16 @@ jobs:
           plugin_topics: yes
           plugin_topics_limit: 0
           plugin_topics_mode: icons
-      - name: Recent activity charts
+      - name: Recent activity
         uses: lowlighter/metrics@latest
         with:
-          filename: habits.svg
+          filename: indepth.svg
           token: ${{ secrets.METRICS }}
           base: ""
           plugin_activity: yes
           plugin_activity_limit: 5
           plugin_activity_days: 0
           plugin_activity_filter: issue, pr, release, fork, review, ref/create
-          config_timezone: America/Denver
       - name: Most used (with details)
         uses: lowlighter/metrics@latest
         with:
