@@ -92,28 +92,14 @@ Desarrollador en constante aprendizaje con interés en la intersección entre la
   <img alt="figma" src="https://www.svgrepo.com/show/452202/figma.svg" width="40" height="40"/>
 </div>
 
-## :chart_with_upwards_trend: Estadísticas
-
-<!---
-![trofeos](https://github-profile-trophy.vercel.app/?username=adnksharp&theme=algolia&no-frame=true&no-bg=true&rank=SSS,SS,S,AAA,AA,A,B,C,SECRET)
--->
-
-| ![toplangs](https://github-readme-stats.vercel.app/api/top-langs/?username=adnksharp&theme=tokyonight&locale=es&layout=compact&bg_color=00000000&hide_border=true&langs_count=10) | ![status](https://streak-stats.demolab.com?user=adnksharp&theme=windows-dark&date_format=j%2Fn%5B%2FY%5D&locale=es&background=00000000&hide_border=true) | 
-| ------------------------------------------------------------ | ------------------------------------------------------------ |
-| ![rank](https://github-readme-stats.vercel.app/api?username=adnksharp&show_icons=true&locale=es&bg_color=00000000&hide_border=true&theme=tokyonight) | <img alt="chart" src="https://github-readme-activity-graph.vercel.app/graph?username=adnksharp&bg_color=00000000&theme=react-dark&hide_border=true&hide_title=true&point=bf91f3" width="500" /> |
-<!--
-<details>
-  <summary>...</summary>
-  
-
-| ------------------------------------------------------------ | ------------------------------------------------------------ |
+## :chart_with_upwards_trend: [Metricas](https://github.com/lowlighter/metrics)
 
 
-> Reinventing the wheel
-
-## :headphones: :musical_keyboard: :video_game: Gustos
-
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=4dmc7adzfxoe4askhbja3ec2i)](https://spotify-github-profile.kittinanx.com/api/view?uid=4dmc7adzfxoe4askhbja3ec2i&redirect=true)
-
-</details>
--->
+[<img align="left" width="25%" alt="📊" src="https://github.com/adnksharp/adnksharp/blob/main/github-metrics.svg">](#)
+[<img align="center" width="30%" alt="📊" src="https://github.com/adnksharp/adnksharp/blob/main/metrics.plugin.followup.indepth.svg">](#)
+[<img align="right" width="40%" alt="📊" src="https://github.com/adnksharp/adnksharp/blob/main/metrics.plugin.isocalendar.fullyear.svg">](#)
+[<img align="left" width="48%" alt="📊" src="https://github.com/adnksharp/adnksharp/blob/main/metrics.plugin.repositories.svg">](#)
+[<img align="right" width="47%" alt="📊" src="https://github.com/adnksharp/adnksharp/blob/main/metrics.plugin.topics.icons.svg">](#)
+[<img align="right" width="47%" alt="📊" src="https://github.com/adnksharp/adnksharp/blob/main/metrics.plugin.languages.details.svg">](#)
+[<img align="right" width="47%" alt="📊" src="https://github.com/adnksharp/adnksharp/blob/main/metrics.plugin.music.playlist.spotify.svg">](#)
+[<img align="left" width="48%" alt="📊" src="https://github.com/adnksharp/adnksharp/blob/main/metrics.plugin.stars.svg">](#)
