@@ -95,11 +95,11 @@ Desarrollador en constante aprendizaje con interés en la intersección entre la
 ## :chart_with_upwards_trend: [Metricas](https://github.com/lowlighter/metrics)
 
 
-[<img align="left" width="25%" alt="📊" src="https://github.com/adnksharp/adnksharp/blob/main/github-metrics.svg">](#)
-[<img align="center" width="30%" alt="📊" src="https://github.com/adnksharp/adnksharp/blob/main/metrics.plugin.followup.indepth.svg">](#)
-[<img align="right" width="40%" alt="📊" src="https://github.com/adnksharp/adnksharp/blob/main/metrics.plugin.isocalendar.fullyear.svg">](#)
-[<img align="left" width="48%" alt="📊" src="https://github.com/adnksharp/adnksharp/blob/main/metrics.plugin.repositories.svg">](#)
+[<img align="left" width="250px" alt="📊" src="https://github.com/adnksharp/adnksharp/blob/main/github-metrics.svg">](#)
+[<img align="right" width="47%" alt="📊" src="https://github.com/adnksharp/adnksharp/blob/main/metrics.plugin.isocalendar.fullyear.svg">](#)
+[<img align="left" width="48%" alt="📊" src="https://github.com/adnksharp/adnksharp/blob/main/metrics.plugin.stars.svg">](#)
 [<img align="right" width="47%" alt="📊" src="https://github.com/adnksharp/adnksharp/blob/main/metrics.plugin.topics.icons.svg">](#)
 [<img align="right" width="47%" alt="📊" src="https://github.com/adnksharp/adnksharp/blob/main/metrics.plugin.languages.details.svg">](#)
+[<img align="left" width="48%" alt="📊" src="https://github.com/adnksharp/adnksharp/blob/main/metrics.plugin.repositories.svg">](#)
 [<img align="right" width="47%" alt="📊" src="https://github.com/adnksharp/adnksharp/blob/main/metrics.plugin.music.playlist.spotify.svg">](#)
-[<img align="left" width="48%" alt="📊" src="https://github.com/adnksharp/adnksharp/blob/main/metrics.plugin.stars.svg">](#)
+[<img align="right" width="47%" alt="📊" src="https://github.com/adnksharp/adnksharp/blob/main/metrics.plugin.followup.indepth.svg">](#)
