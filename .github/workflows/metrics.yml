@@ -1,77 +1,69 @@
 name: Metrics
 on:
-  # Schedule daily updates
-  schedule: [{cron: "0 0 * * *"}]
-  # (optional) Run workflow manually
+  # Schedule updates (each hour)
+  schedule: [{cron: "0 * * * *"}]
+  # Lines below let you run workflow manually and on each commit
   workflow_dispatch:
-  # (optional) Run workflow when pushing on master/main
   push: {branches: ["master", "main"]}
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
-    environment: 
-      name: production
     permissions:
       contents: write
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          filename: github-metrics.svg
-          token: ${{ secrets.METRICS }}
-          base: header, activity, community
-      - name: Full-year calendar
-        uses: lowlighter/metrics@latest
-        with:
-          filename: calendar.svg
-          token: ${{ secrets.METRICS }}
-          base: ""
+          # Your GitHub token
+          # The following scopes are required:
+          #  - public_access (default scope)
+          # The following additional scopes may be required:
+          #  - read:org      (for organization related metrics)
+          #  - read:user     (for user related data)
+          #  - read:packages (for some packages related data)
+          #  - repo          (optional, if you want to include private repositories)
+          token: ${{ secrets.METRICS_TOKEN }}
+
+          # Options
+          user: adnksharp
+          template: classic
+          base: header, activity, community, repositories, metadata
+          base_hireable: yes
+          base_indepth: yes
+          config_display: columns
+          config_octicon: yes
+          config_timezone: America/Denver
+          config_twemoji: yes
+          plugin_achievements: yes
+          plugin_achievements_display: detailed
+          plugin_achievements_secrets: yes
+          plugin_achievements_threshold: X
+          plugin_followup: yes
+          plugin_followup_archived: yes
+          plugin_followup_indepth: yes
+          plugin_followup_sections: repositories
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
-      - name: Compact display
-        uses: lowlighter/metrics@latest
-        with:
-          filename: compact.svg
-          token: ${{ secrets.METRICS }}
-          base: ""
-          plugin_achievements: yes
-          plugin_achievements_only: polyglot, stargazer, sponsor, deployer, member, maintainer, developer, scripter, packager, explorer, infographile, manager
-          plugin_achievements_display: compact
-          plugin_achievements_threshold: X
-      - name: Indepth analysis
-        uses: lowlighter/metrics@latest
-        with:
-          filename: indepth.svg
-          token: ${{ secrets.METRICS }}
-          base: ""
-          plugin_followup: yes
-          plugin_followup_indepth: yes
-      - name: Icons
-        uses: lowlighter/metrics@latest
-        with:
-          filename: topics.svg
-          token: NOT_NEEDED
-          base: ""
-          plugin_topics: yes
-          plugin_topics_limit: 0
-          plugin_topics_mode: icons
-      - name: Recent activity
-        uses: lowlighter/metrics@latest
-        with:
-          filename: indepth.svg
-          token: ${{ secrets.METRICS }}
-          base: ""
-          plugin_activity: yes
-          plugin_activity_limit: 5
-          plugin_activity_days: 0
-          plugin_activity_filter: issue, pr, release, fork, review, ref/create
-      - name: Indepth analysis
-        uses: lowlighter/metrics@latest
-        with:
-          filename: languages.svg
-          token: ${{ secrets.METRICS }}
-          base: ""
           plugin_languages: yes
-          plugin_languages_indepth: yes
-          plugin_languages_details: lines, bytes-size
-          plugin_languages_limit: 12
           plugin_languages_analysis_timeout: 15
+          plugin_languages_analysis_timeout_repositories: 7.5
+          plugin_languages_categories: markup, programming
+          plugin_languages_details: bytes-size, percentage
+          plugin_languages_limit: 12
+          plugin_languages_other: yes
+          plugin_languages_recent_categories: markup, programming
+          plugin_languages_recent_days: 14
+          plugin_languages_recent_load: 300
+          plugin_languages_sections: most-used
+          plugin_languages_threshold: 0%
+          plugin_music: yes
+          plugin_music_limit: 4
+          plugin_music_mode: playlist
+          plugin_music_playlist: https://open.spotify.com/embed/playlist/37i9dQZF1E39ZeU3vfFNeX?utm_source=generator
+          plugin_music_provider: spotify
+          plugin_music_time_range: medium
+          plugin_music_top_type: tracks
+          plugin_repositories: yes
+          plugin_repositories_order: featured, pinned, starred, random
+          plugin_stars: yes
+          plugin_stars_limit: 4
+          repositories_forks: yes
