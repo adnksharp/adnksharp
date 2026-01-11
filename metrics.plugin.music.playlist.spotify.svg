@@ -25,15 +25,22 @@
                             <div class="track">
                                 <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOcOnfpfwAGfgLYttYINwAAAABJRU5ErkJggg==" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">K.O.</div>
-                                    <div class="artist">Haiden Henderson</div>
+                                    <div class="name">I’m So Sorry</div>
+                                    <div class="artist">Imagine Dragons</div>
                                 </div>
                             </div>
                             <div class="track">
                                 <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOcOnfpfwAGfgLYttYINwAAAABJRU5ErkJggg==" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Call Me Little Sunshine</div>
-                                    <div class="artist">Ghost</div>
+                                    <div class="name">Cocktail Molotov (from the series Arcane League of Legends)</div>
+                                    <div class="artist">Arcane, ZAND</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOcOnfpfwAGfgLYttYINwAAAABJRU5ErkJggg==" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">Dynasties &amp; Dystopia (from the series Arcane League of Legends)</div>
+                                    <div class="artist">Denzel Curry, Gizzle, Bren Joy, Arcane, League of Legends</div>
                                 </div>
                             </div>
                             <div class="track">
@@ -41,13 +48,6 @@
                                 <div class="infos">
                                     <div class="name">FEEL</div>
                                     <div class="artist">EMåneskin</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOcOnfpfwAGfgLYttYINwAAAABJRU5ErkJggg==" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">Me and My Brain</div>
-                                    <div class="artist">Airways</div>
                                 </div>
                             </div>
                         </div>
