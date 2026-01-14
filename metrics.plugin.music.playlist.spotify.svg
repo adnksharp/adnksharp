@@ -25,15 +25,22 @@
                             <div class="track">
                                 <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOcOnfpfwAGfgLYttYINwAAAABJRU5ErkJggg==" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">From Hell to Here</div>
+                                    <div class="name">Thank God I'm Not You</div>
                                     <div class="artist">HIMALAYAS</div>
                                 </div>
                             </div>
                             <div class="track">
                                 <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOcOnfpfwAGfgLYttYINwAAAABJRU5ErkJggg==" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">OFF MY FACE</div>
-                                    <div class="artist">Måneskin</div>
+                                    <div class="name">Running In Circles</div>
+                                    <div class="artist">EDead Poet Society</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOcOnfpfwAGfgLYttYINwAAAABJRU5ErkJggg==" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">Routines In The Night</div>
+                                    <div class="artist">Twenty One Pilots</div>
                                 </div>
                             </div>
                             <div class="track">
@@ -41,13 +48,6 @@
                                 <div class="infos">
                                     <div class="name">I Like to Party</div>
                                     <div class="artist">Jagwar Twin</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOcOnfpfwAGfgLYttYINwAAAABJRU5ErkJggg==" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">Better With</div>
-                                    <div class="artist">Friday Pilots Club</div>
                                 </div>
                             </div>
                         </div>
