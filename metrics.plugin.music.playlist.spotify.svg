@@ -25,22 +25,15 @@
                             <div class="track">
                                 <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOcOnfpfwAGfgLYttYINwAAAABJRU5ErkJggg==" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Drinking with Cupid</div>
-                                    <div class="artist">VOILÀ</div>
+                                    <div class="name">Suicide Romantics</div>
+                                    <div class="artist">Des Rocs</div>
                                 </div>
                             </div>
                             <div class="track">
                                 <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOcOnfpfwAGfgLYttYINwAAAABJRU5ErkJggg==" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Kicks</div>
-                                    <div class="artist">Barns Courtney</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOcOnfpfwAGfgLYttYINwAAAABJRU5ErkJggg==" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">The Outside</div>
-                                    <div class="artist">Twenty One Pilots</div>
+                                    <div class="name">Hellfire - From The Series "Arcane League of Legends"</div>
+                                    <div class="artist">Arcane, League of Legends, FEVER 333</div>
                                 </div>
                             </div>
                             <div class="track">
@@ -48,6 +41,13 @@
                                 <div class="infos">
                                     <div class="name">I Should Have Stayed at Home</div>
                                     <div class="artist">ERyan Mack</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOcOnfpfwAGfgLYttYINwAAAABJRU5ErkJggg==" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">FOR YOUR LOVE</div>
+                                    <div class="artist">EMåneskin</div>
                                 </div>
                             </div>
                         </div>
