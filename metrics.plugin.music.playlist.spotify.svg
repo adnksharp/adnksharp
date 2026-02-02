@@ -25,8 +25,15 @@
                             <div class="track">
                                 <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOcOnfpfwAGfgLYttYINwAAAABJRU5ErkJggg==" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Make It Happen</div>
-                                    <div class="artist">Oblivion's Mighty Trash, Isaac S.A, Adam Walsh, Barbatos Beats, Diavlitx</div>
+                                    <div class="name">Me Voy Antes</div>
+                                    <div class="artist">ELuis7Lunes, Afterclass, Gambeta, Fa-Zeta</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOcOnfpfwAGfgLYttYINwAAAABJRU5ErkJggg==" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">El inmortal</div>
+                                    <div class="artist">Alhan</div>
                                 </div>
                             </div>
                             <div class="track">
@@ -39,15 +46,8 @@
                             <div class="track">
                                 <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOcOnfpfwAGfgLYttYINwAAAABJRU5ErkJggg==" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Para que las chicas bailen</div>
-                                    <div class="artist">ESangre y Joseka</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOcOnfpfwAGfgLYttYINwAAAABJRU5ErkJggg==" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">La Pesca</div>
-                                    <div class="artist">EL'Xuasma, El Arkeologo, Fa-Zeta, Gambeta</div>
+                                    <div class="name">Los fantasmas también sienten</div>
+                                    <div class="artist">Alhan</div>
                                 </div>
                             </div>
                         </div>
