@@ -25,22 +25,8 @@
                             <div class="track">
                                 <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOcOnfpfwAGfgLYttYINwAAAABJRU5ErkJggg==" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Happy Haunting</div>
-                                    <div class="artist">Rare Monk</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOcOnfpfwAGfgLYttYINwAAAABJRU5ErkJggg==" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">Injusto</div>
-                                    <div class="artist">Molinette Cinema</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOcOnfpfwAGfgLYttYINwAAAABJRU5ErkJggg==" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">Mi Capitán</div>
-                                    <div class="artist">Kiltro</div>
+                                    <div class="name">Lemonade</div>
+                                    <div class="artist">Duck Fizz</div>
                                 </div>
                             </div>
                             <div class="track">
@@ -48,6 +34,20 @@
                                 <div class="infos">
                                     <div class="name">Fantasma</div>
                                     <div class="artist">Rey Pila</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOcOnfpfwAGfgLYttYINwAAAABJRU5ErkJggg==" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">Lucky No.7</div>
+                                    <div class="artist">Rey Pila</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOcOnfpfwAGfgLYttYINwAAAABJRU5ErkJggg==" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">La Sed, Nos Volvimos Laberintos</div>
+                                    <div class="artist">Lázaro Cristóbal Comala</div>
                                 </div>
                             </div>
                         </div>
