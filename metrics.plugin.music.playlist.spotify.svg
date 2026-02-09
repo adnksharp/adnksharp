@@ -25,8 +25,15 @@
                             <div class="track">
                                 <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOcOnfpfwAGfgLYttYINwAAAABJRU5ErkJggg==" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Casting a Shadow</div>
-                                    <div class="artist">Rey Pila</div>
+                                    <div class="name">My Ugly</div>
+                                    <div class="artist">Cloudfodder</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOcOnfpfwAGfgLYttYINwAAAABJRU5ErkJggg==" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">Ha Sido</div>
+                                    <div class="artist">ELos Blenders</div>
                                 </div>
                             </div>
                             <div class="track">
@@ -39,15 +46,8 @@
                             <div class="track">
                                 <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOcOnfpfwAGfgLYttYINwAAAABJRU5ErkJggg==" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Mística</div>
-                                    <div class="artist">Esteman, Bandalos Chinos</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOcOnfpfwAGfgLYttYINwAAAABJRU5ErkJggg==" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">Curicó</div>
-                                    <div class="artist">Kiltro</div>
+                                    <div class="name">La Sed, Nos Volvimos Laberintos</div>
+                                    <div class="artist">Lázaro Cristóbal Comala</div>
                                 </div>
                             </div>
                         </div>
