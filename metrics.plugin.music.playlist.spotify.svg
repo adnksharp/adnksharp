@@ -25,13 +25,6 @@
                             <div class="track">
                                 <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOcOnfpfwAGfgLYttYINwAAAABJRU5ErkJggg==" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Queman</div>
-                                    <div class="artist">Luz y Fuerza del Centro</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOcOnfpfwAGfgLYttYINwAAAABJRU5ErkJggg==" width="32" height="32" alt="" />
-                                <div class="infos">
                                     <div class="name">Sweet Dreams, TN</div>
                                     <div class="artist">EThe Last Shadow Puppets</div>
                                 </div>
@@ -39,15 +32,22 @@
                             <div class="track">
                                 <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOcOnfpfwAGfgLYttYINwAAAABJRU5ErkJggg==" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Overload</div>
-                                    <div class="artist">EFuzzy Bumble</div>
+                                    <div class="name">Los Zopilotes</div>
+                                    <div class="artist">Axel Catalán</div>
                                 </div>
                             </div>
                             <div class="track">
                                 <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOcOnfpfwAGfgLYttYINwAAAABJRU5ErkJggg==" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Nena</div>
-                                    <div class="artist">Duck Fizz</div>
+                                    <div class="name">Jealous</div>
+                                    <div class="artist">Cosmovision</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOcOnfpfwAGfgLYttYINwAAAABJRU5ErkJggg==" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">Gin</div>
+                                    <div class="artist">Lázaro Cristóbal Comala</div>
                                 </div>
                             </div>
                         </div>
