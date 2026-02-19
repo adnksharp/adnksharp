@@ -25,15 +25,8 @@
                             <div class="track">
                                 <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOcOnfpfwAGfgLYttYINwAAAABJRU5ErkJggg==" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Resiste</div>
-                                    <div class="artist">La Texana</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOcOnfpfwAGfgLYttYINwAAAABJRU5ErkJggg==" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">You Are the Beginning</div>
-                                    <div class="artist">The Family Crest</div>
+                                    <div class="name">Inexplicable</div>
+                                    <div class="artist">The Correspondents</div>
                                 </div>
                             </div>
                             <div class="track">
@@ -46,8 +39,15 @@
                             <div class="track">
                                 <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOcOnfpfwAGfgLYttYINwAAAABJRU5ErkJggg==" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Mira Si No Es un Buen Día para Naufragar</div>
-                                    <div class="artist">Lázaro Cristóbal Comala, Pablo Perro</div>
+                                    <div class="name">Bone Crown</div>
+                                    <div class="artist">Marah in the Mainsail</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOcOnfpfwAGfgLYttYINwAAAABJRU5ErkJggg==" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">Side Character</div>
+                                    <div class="artist">Cloudfodder</div>
                                 </div>
                             </div>
                         </div>
