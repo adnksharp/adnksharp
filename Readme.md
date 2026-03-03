@@ -97,6 +97,6 @@ Desarrollador en constante aprendizaje con interés en la intersección entre la
 [<img align="left" width="43.5%" alt="📊" src="https://github.com/adnksharp/adnksharp/blob/main/metrics.plugin.stars.svg">](#)
 [<img align="left" width="33.5%" alt="📊" src="https://github.com/adnksharp/adnksharp/blob/main/metrics.plugin.isocalendar.fullyear.svg">](#)
 [<img align="right" width="42.5%" alt="📊" src="https://github.com/adnksharp/adnksharp/blob/main/metrics.plugin.topics.icons.svg">](#)
-[<img align="right" width="42.5%" alt="📊" src="https://github.com/adnksharp/adnksharp/blob/main/metrics.plugin.languages.details.svg">](#)
+[<img align="right" width="42.5%" alt="📊" src="https://github.com/adnksharp/adnksharp/blob/a154615de5702272770c2519439f137458ae5c58/metrics.plugin.languages.details.svg">](#)
 [<img align="left" width="43.5%" alt="📊" src="https://github.com/adnksharp/adnksharp/blob/main/metrics.plugin.followup.indepth.svg">](#)
 [<img align="right" width="42.5%" alt="📊" src="https://github.com/adnksharp/adnksharp/blob/main/metrics.plugin.music.playlist.spotify.svg">](#)
