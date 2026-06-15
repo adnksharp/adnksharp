@@ -32,7 +32,7 @@ Desarrollador en constante aprendizaje con interés en la intersección entre la
   <img src="assets/title/expertice.webp" alt="Expertice" width="30%"/>
 </h2>
 
-| **Lenguajes** | **Frameworks** | **IDEs** | **Matemáticas** | **Documentación** | **SO** |
+| <div style="width:16.5vw">Lenguajes</div> | <div style="width:16.5vw">Frameworks</div> | <div style="width:16.5vw">IDEs</div> | <div style="width:16.5vw">Matemáticas</div> | <div style="width:16.5vw">Documentación y Diseño</div> | <div style="width:16.5vw">Sistemas Operativos</div> |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | <img src="assets/icons/cpp.webp" alt="C++"/> | <img src="assets/icons/gtkmm.webp" alt="GTKmm"/> | <img src="assets/icons/codeblocks.webp" alt="Code::Blocks"/> | <img src="assets/icons/octave.webp" alt="GNU Octave"/> | <img src="assets/icons/latex.webp" alt="LaTeX"/> | <img src="assets/icons/arch.webp" alt="Arch Linux"/> |
 | <img src="assets/icons/csharp.webp" alt="C#"/> | <img src="assets/icons/dotnet.webp" alt=".NET"/> | <img src="assets/icons/vs.webp" alt="Visual Studio"/> | <img src="assets/icons/jupyter.webp" alt="Jupyter Notebook"/> | <img src="assets/icons/md.webp" alt="Markdown"/> | <img src="assets/icons/debian.webp" alt="Debian"/> |
