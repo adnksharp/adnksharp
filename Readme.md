@@ -1,9 +1,12 @@
-# Sharp | Estudiante de mecatrónica 🤖
+<h1>
+  <img src="assets/title/user.webp" alt="adn-K-Sharp" width="40%"/>
+</h1>
 
-Desarrollador en constante aprendizaje con interés en la intersección entre la electrónica y la programación. Me gusta explorar proyectos que involucran microcontroladores , sistemas de control, CAD/CAE/EDA y desarrollo de software.  Mi toolkit incluye **lenguajes** como C++, MATLAB, Python, JS, Bash; **frameworks** como Electron, React Native, Mongosh; y **middleware** como RabbitMQ, Express, .NET y ROS2.
+Desarrollador en constante aprendizaje con interés en la intersección entre la electrónica y la programación.  Mi toolkit incluye **lenguajes** como C++, MATLAB, Python, JS, Bash; **frameworks** como Electron, React Native, Mongosh; y **middleware** como RabbitMQ, Express, .NET y ROS2.
 
-## :wave: Conversemos
-
+<h2>
+  <img src="assets/title/contact.webp" alt="Contacto" width="30%"/>
+</h2>
 
 <div id="badges">
   
@@ -16,87 +19,44 @@ Desarrollador en constante aprendizaje con interés en la intersección entre la
 
 </div>
 
-## :mechanical_arm: Expertice (Herramientas, Tecnologías, Lenguajes, ...)
+<h2>
+  <img src="assets/title/metrics.webp" alt="Métricas" width="30%"/>
+</h2>
 
-[<img alt="nvim" src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Neovim-mark.svg" width="3.5%"/>](#)
-[<img alt="vs-code" src="https://www.svgrepo.com/show/354522/visual-studio-code.svg" width="4.5%"/>](#)
-[<img alt="vs" src="https://www.svgrepo.com/show/354520/visual-studio.svg" width="4.5%"/>](#)
-[<img alt="androidstudio" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Android_Studio_icon_%282023%29.svg/2048px-Android_Studio_icon_%282023%29.svg.png" width="4.5%"/>](#)
-[<img alt="pycharm" src="https://www.svgrepo.com/show/354237/pycharm.svg" width="4.5%"/>](#)
-[<img alt="rslogix" src="https://upload.wikimedia.org/wikipedia/commons/6/63/RSLogix.svg" width="4.5%"/>](#)
-[<img alt="arduino" src="https://img.icons8.com/?size=48&id=Of4lZV2lwBQI&format=png" width="4.5%"/>](#)
-[<img alt="upython" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Micropython-logo.svg" width="4.5%"/>](#)
-[<img alt="jupyter" src="https://www.svgrepo.com/show/373718/jupyter.svg" width="4.5%"/>](#)
-[<img alt="platformio" src="https://www.svgrepo.com/show/373979/platformio.svg" width="4.5%"/>](#)
-[<img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/9c64cfe3-bb3b-4ae8-b5a6-d2f39d21ff87/d3jme6i-8c702ad4-4b7a-4763-9901-99f8b4f038b0.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzljNjRjZmUzLWJiM2ItNGFlOC1iNWE2LWQyZjM5ZDIxZmY4N1wvZDNqbWU2aS04YzcwMmFkNC00YjdhLTQ3NjMtOTkwMS05OWY4YjRmMDM4YjAucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.oQC1FIUxsmeyLHm6qNdoRb8wzoMdKI1p49kNBstoU-w" width="4.5%"/>](#)
-[<img alt="kicad" src="https://avatars.githubusercontent.com/u/3374914?s=280&v=4" width="4.5%"/>](#)
-[<img alt="gz-sim" src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Gazebo_logo_without_text.svg" width="4.5%"/>](#)
-[<img alt="simulink" src="https://upload.wikimedia.org/wikipedia/commons/3/36/Simulink_Logo_%28non-wordmark%29.png" width="4.5%"/>](#)
-[<img alt="sw" src="https://img.icons8.com/?size=512&id=62397&format=png" width="4.5%"/>](#)
-[<img alt="proteus" src="https://upload.wikimedia.org/wikipedia/en/5/5a/Proteus_Design_Suite_Atom_Logo.png" width="4.5%"/>](#)
-[<img alt="fritzing" src="https://upload.wikimedia.org/wikipedia/commons/a/a8/Fritzing_icon_%28new%29.png" width="4.5%"/>](#)
-[<img alt="freecad" src="https://upload.wikimedia.org/wikipedia/commons/f/f7/FreeCAD-logo.svg" width="4.5%"/>](#)
+![trofeos](https://trophygithubreadmelang.cybee.dpdns.org/?username=adnksharp&theme=algolia&no-frame=true&no-bg=true&rank=SSS,SS,S,AAA,AA,A,B,C,SECRET)
 
+| ![rank](https://github-readme-stats.vercel.app/api?username=adnksharp&show_icons=true&locale=es&bg_color=00000000&hide_border=true&theme=tokyonight) | ![status](https://github-readme-streak-stats.herokuapp.com?user=adnksharp&theme=windows-dark&date_format=j%2Fn%5B%2FY%5D&locale=es&background=00000000&hide_border=true) | 
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
 
-[<img alt="matlab" src="https://www.svgrepo.com/show/373830/matlab.svg" width="4.5%"/>](#)
-[<img alt="scilab" src="https://www.svgrepo.com/show/374065/scilab.svg" width="4.5%"/>](#)
-[<img alt="r" src="https://img.icons8.com/?size=48&id=CLvQeiwFpit4&format=png" width="4.5%"/>](#)
-[<img alt="ansys" src="https://companieslogo.com/img/orig/ANSS-afc9cd74.png?t=1720244490" width="4.5%"/>](#)
-[<img alt="pandas" src="https://img.icons8.com/?size=48&id=xSkewUSqtErH&format=png" width="4.5%"/>](#)
-[<img alt="scipy" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/SCIPY_2.svg" width="4.5%"/>](#)
-[<img alt="google-notebook" src="https://registry.npmmirror.com/@lobehub/icons-static-png/1.75.0/files/dark/notebooklm.png" width="4.5%"/>](#)
-[<img alt="azure" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" width="4.5%"/>](#)
-[<img alt="aws" src="https://www.svgrepo.com/show/376356/aws.svg" width="4.5%"/>](#)
-[<img alt="google-cloud" src="https://www.svgrepo.com/show/448223/gcp.svg" width="4.5%"/>](#)
-[<img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/9c64cfe3-bb3b-4ae8-b5a6-d2f39d21ff87/d3jme6i-8c702ad4-4b7a-4763-9901-99f8b4f038b0.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzljNjRjZmUzLWJiM2ItNGFlOC1iNWE2LWQyZjM5ZDIxZmY4N1wvZDNqbWU2aS04YzcwMmFkNC00YjdhLTQ3NjMtOTkwMS05OWY4YjRmMDM4YjAucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.oQC1FIUxsmeyLHm6qNdoRb8wzoMdKI1p49kNBstoU-w" width="4.5%"/>](#)
-[<img alt="arch" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" width="4.5%"/>](#)
-[<img alt="debian" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/debian/debian-original.svg" width="4.5%"/>](#)
-[<img alt="fedora" src="https://www.svgrepo.com/show/354990/fedora.svg" width="4.5%"/>](#)
-[<img alt="win" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" width="4.5%"/>](#)
-[<img alt="vmware" src="https://upload.wikimedia.org/wikipedia/commons/5/5a/Vmware_workstation_16_icon.svg" width="4.5%"/>](#)
-[<img alt="nodejs" src="https://www.svgrepo.com/show/354119/nodejs-icon.svg" width="4.5%"/>](#)
-[<img alt="dotnet" src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Microsoft-dot-net-icon.svg" width="4.5%"/>](#)
+<h2>
+  <img src="assets/title/expertice.webp" alt="Expertice" width="30%"/>
+</h2>
 
+| **Lenguajes** | <img src="assets/icons/node.webp" alt="Node.js" width="60%"/> | <img src="assets/icons/platformio.webp" alt="PlatformIO" width="60%"/> |
+| :--- | :--- | :--- |
+| <img src="assets/icons/cpp.webp" alt="C++" width="60%"/> | <img src="assets/icons/react-native.webp" alt="React Native" width="60%"/> | **Nube y Contenedores** |
+| <img src="assets/icons/csharp.webp" alt="C#" width="60%"/> | <img src="assets/icons/spring.webp" alt="Spring Boot" width="60%"/> | <img src="assets/icons/aws.webp" alt="AWS" width="60%"/> |
+| <img src="assets/icons/python.webp" alt="Python" width="60%"/> | **Middleware** | <img src="assets/icons/azure.webp" alt="Azure" width="60%"/> |
+| <img src="assets/icons/js.webp" alt="JavaScript" width="60%"/> | <img src="assets/icons/rabbitmq.webp" alt="RabbitMQ" width="60%"/> | <img src="assets/icons/google-cloud.webp" alt="Google Cloud" width="60%"/> |
+| <img src="assets/icons/ts.webp" alt="TypeScript" width="60%"/> | <img src="assets/icons/ros2.webp" alt="ROS2" width="60%"/> | <img src="assets/icons/docker.webp" alt="Docker" width="60%"/> |
+| <img src="assets/icons/bash.webp" alt="Bash, ZSH y Sh" width="60%"/> | **Matemáticas** | **Sistemas Operativos** |
+| <img src="assets/icons/java.webp" alt="Java" width="60%"/> | <img src="assets/icons/octave.webp" alt="GNU Octave" width="60%"/> | <img src="assets/icons/arch.webp" alt="Arch Linux" width="60%"/> |
+| **Bases de datos** | <img src="assets/icons/jupyter.webp" alt="Jupyter Notebook" width="60%"/> | <img src="assets/icons/debian.webp" alt="Debian" width="60%"/> |
+| <img src="assets/icons/mysql.webp" alt="MySQL" width="60%"/> | <img src="assets/icons/scipy.webp" alt="SciPy" width="60%"/> | <img src="assets/icons/fedora.webp" alt="Fedora" width="60%"/> |
+| <img src="assets/icons/mongo.webp" alt="MongoDB" width="60%"/> | <img src="assets/icons/matlab.webp" alt="MATLAB" width="60%"/> | <img src="assets/icons/opensuse.webp" alt="openSUSE" width="60%"/> |
+| <img src="assets/icons/mysql-w.webp" alt="MySQL Workbench" width="60%"/> | <img src="assets/icons/simulink.webp" alt="Simulink" width="60%"/> | <img src="assets/icons/windows.webp" alt="Windows" width="60%"/> |
+| <img src="assets/icons/mongo-atlas.webp" alt="MongoDB Atlas" width="60%"/> | <img src="assets/icons/scilab.webp" alt="Scilab" width="60%"/> | <img src="assets/icons/wsl.webp" alt="WSL" width="60%"/> |
+| **IDEs** | <img src="assets/icons/rstudio.webp" alt="RStudio" width="60%"/> | **Documentación y Diseño** |
+| <img src="assets/icons/codeblocks.webp" alt="Code::Blocks" width="60%"/> | <img src="assets/icons/ansys.webp" alt="ANSYS APDL" width="60%"/> | <img src="assets/icons/latex.webp" alt="LaTeX" width="60%"/> |
+| <img src="assets/icons/vs.webp" alt="Visual Studio" width="60%"/> | <img src="assets/icons/sage.webp" alt="SageMath" width="60%"/> | <img src="assets/icons/md.webp" alt="Markdown" width="60%"/> |
+| <img src="assets/icons/pycharm.webp" alt="PyCharm" width="60%"/> | **CAD, CAM y CAE** | <img src="assets/icons/mkdocs.webp" alt="MkDocs" width="60%"/> |
+| <img src="assets/icons/vs-code.webp" alt="Visual Studio Code" width="60%"/> | <img src="assets/icons/solidworks.webp" alt="SolidWorks" width="60%"/> | <img src="assets/icons/html.webp" alt="HTML" width="60%"/> |
+| <img src="assets/icons/android-studio.webp" alt="Android Studio" width="60%"/> | <img src="assets/icons/catia.webp" alt="CATIA" width="60%"/> | <img src="assets/icons/css.webp" alt="CSS" width="60%"/> |
+| <img src="assets/icons/neovim.webp" alt="Neovim" width="60%"/> | <img src="assets/icons/kicad.webp" alt="KiCad" width="60%"/> | <img src="assets/icons/scss.webp" alt="SCSS" width="60%"/> |
+| <img src="assets/icons/eclipse.webp" alt="Eclipse" width="60%"/> | <img src="assets/icons/freecad.webp" alt="FreeCAD" width="60%"/> | **Otras herramientas** |
+| **Frameworks** | **Embedded** | <img src="assets/icons/figma.webp" alt="Figma" width="60%"/> |
+| <img src="assets/icons/gtkmm.webp" alt="GTKmm" width="60%"/> | <img src="assets/icons/arduino.webp" alt="Arduino IDE y CLI" width="60%"/> | <img src="assets/icons/wordpress.webp" alt="WordPress" width="60%"/> |
+| <img src="assets/icons/dotnet.webp" alt=".NET" width="60%"/> | <img src="assets/icons/rslogix.webp" alt="RSLogix 500 y 5000" width="60%"/> | <img src="assets/icons/ms-365.webp" alt="Microsoft 365" width="60%"/> |
+| <img src="assets/icons/qt.webp" alt="PySide y PyQt" width="60%"/> | <img src="assets/icons/micropython.webp" alt="MicroPython" width="60%"/> |
 
-[<img alt="c" src="https://img.icons8.com/?size=48&id=40670&format=png" width="4.5%"/>](#)
-[<img alt="cpp" src="https://www.svgrepo.com/show/452183/cpp.svg" width="4.5%"/>](#)
-[<img alt="csharp" src="https://www.svgrepo.com/show/452184/csharp.svg" width="4.5%"/>](#)
-[<img alt="py" src="https://www.svgrepo.com/show/452091/python.svg" width="4.5%"/>](#)
-[<img alt="js" src="https://www.svgrepo.com/show/353925/javascript.svg" width="4.5%"/>](#)
-[<img alt="ts" src="https://www.svgrepo.com/show/354478/typescript-icon.svg" width="4.5%"/>](#)
-[<img alt="bash" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" width="4.5%"/>](#)
-[<img alt="java" src="https://www.svgrepo.com/show/452234/java.svg" width="4.5%"/>](#)
-[<img alt="mysql" src="https://www.svgrepo.com/show/355133/mysql.svg" width="4.5%"/>](#)
-[<img alt="mongo" src="https://www.svgrepo.com/show/373845/mongo.svg" width="4.5%"/>](#)
-[<img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/9c64cfe3-bb3b-4ae8-b5a6-d2f39d21ff87/d3jme6i-8c702ad4-4b7a-4763-9901-99f8b4f038b0.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzljNjRjZmUzLWJiM2ItNGFlOC1iNWE2LWQyZjM5ZDIxZmY4N1wvZDNqbWU2aS04YzcwMmFkNC00YjdhLTQ3NjMtOTkwMS05OWY4YjRmMDM4YjAucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.oQC1FIUxsmeyLHm6qNdoRb8wzoMdKI1p49kNBstoU-w" width="4.5%"/>](#)
-[<img alt="qt" src="https://www.svgrepo.com/show/354243/qt.svg" width="4.5%"/>](#)
-[<img alt="ros-kilted" src="https://images.squarespace-cdn.com/content/v1/606d378755a86f589aa297b7/1747986227632-MRT4P9PXVPR1RG5O0LVO/KiltedKaiju_WithBackground.png" width="4.5%"/>](#)
-[<img alt="rabbitmq" src="https://www.svgrepo.com/show/354250/rabbitmq-icon.svg" width="4.5%"/>](#)
-[<img alt="electron" src="https://www.svgrepo.com/show/353689/electron.svg" width="4.5%"/>](#)
-[<img alt="react" src="https://www.svgrepo.com/show/452092/react.svg" width="4.5%"/>](#)
-[<img alt="express" src="https://img.icons8.com/office16/512/express-js.png" width="4.5%"/>](#)
-[<img alt="spring" src="https://www.svgrepo.com/show/376350/spring.svg" width="4.5%"/>](#)
-
-
-[<img alt="latext" src="https://img.icons8.com/?size=48&id=WBooq2dInw0x&format=png" width="4.5%"/>](#)
-[<img alt="markdown" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/205_Markdown-512.png" width="4.5%"/>](#)
-[<img alt="rest" src="https://www.svgrepo.com/show/374044/rest.svg" width="4.5%"/>](#)
-[<img alt="yaml" src="https://www.svgrepo.com/show/373802/light-yaml.svg" width="4.5%"/>](#)
-[<img alt="json" src="https://www.svgrepo.com/show/373713/json-official.svg" width="4.5%"/>](#)
-[<img alt="toml" src="https://www.svgrepo.com/show/374133/toml.svg" width="4.5%"/>](#)
-[<img alt="html" src="https://www.svgrepo.com/show/452228/html-5.svg" width="4.5%"/>](#)
-[<img alt="css" src="https://www.svgrepo.com/show/373535/css.svg" width="4.5%"/>](#)
-[<img alt="scss" src="https://www.svgrepo.com/show/374068/scss.svg" width="4.5%"/>](#)
-[<img alt="figma" src="https://www.svgrepo.com/show/452202/figma.svg" width="4.5%"/>](#)
-
-## :chart_with_upwards_trend: [Metricas](https://github.com/lowlighter/metrics)
-
-
-[<img align="left" width="250px" alt="📊" src="https://github.com/adnksharp/adnksharp/blob/main/github-metrics.svg">](#)
-[<img align="right" width="42.5%" alt="📊" src="https://github.com/adnksharp/adnksharp/blob/main/metrics.plugin.repositories.svg">](#)
-[<img align="left" width="43.5%" alt="📊" src="https://github.com/adnksharp/adnksharp/blob/main/metrics.plugin.stars.svg">](#)
-[<img align="left" width="33.5%" alt="📊" src="https://github.com/adnksharp/adnksharp/blob/main/metrics.plugin.isocalendar.fullyear.svg">](#)
-[<img align="right" width="42.5%" alt="📊" src="https://github.com/adnksharp/adnksharp/blob/main/metrics.plugin.topics.icons.svg">](#)
-[<img align="right" width="42.5%" alt="📊" src="https://github.com/adnksharp/adnksharp/blob/a154615de5702272770c2519439f137458ae5c58/metrics.plugin.languages.details.svg">](#)
-[<img align="left" width="43.5%" alt="📊" src="https://github.com/adnksharp/adnksharp/blob/main/metrics.plugin.followup.indepth.svg">](#)
-[<img align="right" width="42.5%" alt="📊" src="https://github.com/adnksharp/adnksharp/blob/main/metrics.plugin.music.playlist.spotify.svg">](#)
+###### Imágenes de [Wikimedia Commons](https://commons.wikimedia.org/wiki/Main_Page)
