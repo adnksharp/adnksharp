@@ -32,7 +32,7 @@ Desarrollador en constante aprendizaje con interés en la intersección entre la
   <img src="assets/title/expertice.webp" alt="Expertice" width="30%"/>
 </h2>
 
-| **Lenguajes** | **Frameworks** | **IDEs** | **Matemáticas** | **Documentación y Diseño** | **Sistemas Operativos** |
+| **Lenguajes** | **Frameworks** | **IDEs** | **Matemáticas** | **Docs** | **SO** |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | <img src="assets/icons/cpp.webp" alt="C++"/> | <img src="assets/icons/gtkmm.webp" alt="GTKmm"/> | <img src="assets/icons/codeblocks.webp" alt="Code::Blocks"/> | <img src="assets/icons/octave.webp" alt="GNU Octave"/> | <img src="assets/icons/latex.webp" alt="LaTeX"/> | <img src="assets/icons/arch.webp" alt="Arch Linux"/> |
 | <img src="assets/icons/csharp.webp" alt="C#"/> | <img src="assets/icons/dotnet.webp" alt=".NET"/> | <img src="assets/icons/vs.webp" alt="Visual Studio"/> | <img src="assets/icons/jupyter.webp" alt="Jupyter Notebook"/> | <img src="assets/icons/md.webp" alt="Markdown"/> | <img src="assets/icons/debian.webp" alt="Debian"/> |
@@ -43,7 +43,7 @@ Desarrollador en constante aprendizaje con interés en la intersección entre la
 | <img src="assets/icons/java.webp" alt="Java"/> | <img src="assets/icons/mongo-atlas.webp" alt="MongoDB Atlas"/>| <img src="assets/icons/eclipse.webp" alt="Eclipse"/> | <img src="assets/icons/rstudio.webp" alt="RStudio"/> | | |
 | | | <img src="assets/icons/mongo-atlas.webp" alt="MongoDB Atlas"/> | <img src="assets/icons/ansys.webp" alt="ANSYS APDL"/> | | |
 | | | <img src="assets/icons/mysql-w.webp" alt="MySQL Workbench"/>  | <img src="assets/icons/sage.webp" alt="SageMath"/> | | |
-| **Middleware**  | **Bases de datos** | **Embedded** | **CAD, CAM y CAE** | **Nube y Contenedores** | **Otras herramientas** |
+| **Middleware**  | **Bases de datos** | **Embedded** | **CAD, CAM y CAE** | **Nube** | **++** |
 | <img src="assets/icons/rabbitmq.webp" alt="RabbitMQ"/> | <img src="assets/icons/mysql.webp" alt="MySQL"/> | <img src="assets/icons/platformio.webp" alt="PlatformIO"/> | <img src="assets/icons/solidworks.webp" alt="SolidWorks"/> | <img src="assets/icons/aws.webp" alt="AWS"/> | <img src="assets/icons/figma.webp" alt="Figma"/> |
 | <img src="assets/icons/ros2.webp" alt="ROS2"/> | <img src="assets/icons/mongo.webp" alt="MongoDB"/> | <img src="assets/icons/arduino.webp" alt="Arduino IDE y CLI"/> | <img src="assets/icons/catia.webp" alt="CATIA"/> | <img src="assets/icons/azure.webp" alt="Azure"/> | <img src="assets/icons/wordpress.webp" alt="WordPress"/> |
 |  | | <img src="assets/icons/rslogix.webp" alt="RSLogix 500 y 5000"/> | <img src="assets/icons/kicad.webp" alt="KiCad"/> | <img src="assets/icons/google-cloud.webp" alt="Google Cloud"/> | <img src="assets/icons/ms-365.webp" alt="Microsoft 365"/> |
