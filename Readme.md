@@ -25,7 +25,7 @@ Desarrollador en constante aprendizaje con interés en la intersección entre la
 
 ![trofeos](https://trophygithubreadmelang.cybee.dpdns.org/?username=adnksharp&theme=algolia&no-frame=true&no-bg=true&rank=SSS,SS,S,AAA,AA,A,B,C,SECRET)
 
-| ![rank](https://github-readme-stats.vercel.app/api?username=adnksharp&show_icons=true&locale=es&bg_color=00000000&hide_border=true&theme=tokyonight) | ![status](https://github-readme-streak-stats.herokuapp.com?user=adnksharp&theme=windows-dark&date_format=j%2Fn%5B%2FY%5D&locale=es&background=00000000&hide_border=true) | 
+| ![rank](https://github-stats-extended.vercel.app/api?username=adnksharp&show_icons=true&locale=es&bg_color=00000000&hide_border=true&theme=tokyonight) | ![status](https://github-readme-streak-stats.herokuapp.com?user=adnksharp&theme=windows-dark&date_format=j%2Fn%5B%2FY%5D&locale=es&background=00000000&hide_border=true) | 
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 
 <h2>
